@@ -1,0 +1,71 @@
+body{
+    background-image: url(./Aesthetic\ pfp.png);
+    background-size: cover;  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    width: 100%; 
+}
+
+.container {
+    padding-left: 40%;
+    margin-top: 150px;
+}
+.card-2 {
+    
+    margin-top: 50px;
+    
+}
+div#reply-btn {
+    padding-left: 150px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+div#reply-btn button{
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    background-color:transparent;
+    color: color-mix(in srgb, chocolate 50%, purple 40%);
+    border: 2px solid;
+    cursor: pointer;
+    font-size: medium;
+}
+.submit-btn {
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 0px;
+}
+input.input-text {
+    height: 50px;
+    width: 250px;
+    border-radius: 20px;
+    color: lightcoral;
+    border: 2px solid;
+    background-color: transparent;
+    color: lightcoral;
+    font-size: large;
+    font-family: cursive;
+}
+.first-comment {
+    color: lightcoral;
+    border: 5px solid lightcoral;
+    width: 510px;
+    padding-left: 10px;
+    height: 80px;
+    margin-top: 30px;
+    font-family: fantasy;
+}
+.submit-btn button{
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    background-color:transparent;
+    color: color-mix(in srgb, chocolate 50%, purple 40%);
+    border: 2px solid;
+    cursor: pointer;
+    font-size: medium;
+}
+.reply-btn {
+    margin-top: 20px;
+}
